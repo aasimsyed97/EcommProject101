@@ -2,6 +2,8 @@ package com.masai.Ecom.Model;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.masai.Ecom.dto.product.ProductDto;
+
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 
